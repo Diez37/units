@@ -1,0 +1,7 @@
+goos: linux
+goarch: amd64
+pkg: github.com/Diez37/units/size
+cpu: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+BenchmarkParseSize-12    	  885320	     16118 ns/op	    4105 B/op	      63 allocs/op
+PASS
+ok  	github.com/Diez37/units/size	14.410s
